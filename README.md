@@ -6,20 +6,26 @@ Alfred workflow for domain search, check availability of domain.
 
 ##Install
 
-Download the `.alfredworkflow` file, double click to import your alfred workflow.
+Download the `Domain Searcher.alfredworkflow` file, double click to import your alfred workflow.
+
+[Direct download](https://github.com/Lings/AlfredDomainSearcher/blob/master/Domain%20Searcher.alfredworkflow?raw=true)
 
 
 ##Usage
 
 ####1. Input `dm abc` to check whether `abc.com`, `abc.cn`, `abc.net`, `abc.me` these domains can be registed.
 
+![dm](https://raw.githubusercontent.com/Lings/AlfredDomainSearcher/master/screenshots/dm.jpeg)
+
+
 ####2. Input `dmx abc` to check more extentions, include `abc.org`, `abc.tv`, `abc.cc`
+
+![dmx](https://raw.githubusercontent.com/Lings/AlfredDomainSearcher/master/screenshots/dmx.jpeg)
+
 
 ####3. Input whole domain (eg. `dm abc.com`) what ever you use `dm` or `dmx`, will get only one result for the specific domain.
 
-
-
-##Screenshot
+![dm](https://raw.githubusercontent.com/Lings/AlfredDomainSearcher/master/screenshots/dm_include_ext.jpeg)
 
 
 
